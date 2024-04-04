@@ -82,6 +82,12 @@ strong{
     line-height: 38px;
     font-size: 20px;
 }
+h6{
+    color: #B9B9CE;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 38px;
+}
 button{
     font-size: 30px;
     color: #2424717E;
